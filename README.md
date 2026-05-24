@@ -7,13 +7,13 @@ Opencore EFI Files for ASUS Vivobook X540UAR
 * Storage: Adata 250GB Sata SSD
 * Wifi/Bluetooth: Intel Dual Band Wireless-AC
 ## Tested
-:white_check_mark: Wifi and Bluetooth
-:white_check_mark: Video Acceleration
-:white_check_mark: Audio
-:white_check_mark: Trackpad and Keyboard
-:x: Camera
-:x: Internal Microphone
+* :white_check_mark: Wifi and Bluetooth
+* :white_check_mark: Video Acceleration
+* :white_check_mark: Audio
+* :white_check_mark: Trackpad and Keyboard
+* :x: Camera
+* :x: Internal Microphone
 ## No Tested
-HDMI Output
-Airdrop
-Apple Services
+* HDMI Output
+* Airdrop
+* Apple Services
